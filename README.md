@@ -26,7 +26,7 @@ Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir par
 
 Para esse desafio temos os seguintes testes:
 
-- `**should be able to create a new repository`**: Para que esse teste passe, sua aplicação deve permitir que um repositório seja criado, e retorne um json com o projeto criado.
+- **`should be able to create a new repository`**: Para que esse teste passe, sua aplicação deve permitir que um repositório seja criado, e retorne um json com o projeto criado.
 
 - **`should be able to list the repositories`**: Para que esse teste passe, sua aplicação deve permitir que seja retornado um array com todos os repositórios que foram criados até o momento.
 
